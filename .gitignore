@@ -1,0 +1,21 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Next.js build files
+.next/
+out/
+
+# Build output
+dist/
+
+# Local and OS files
+.DS_Store
+Thumbs.db
+
+/frontend/.git-backup/
